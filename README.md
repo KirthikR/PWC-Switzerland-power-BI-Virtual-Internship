@@ -1,6 +1,6 @@
 # PWC-Switzerland-power-BI-Virtual-Internship
 
-# Task 1: Call Center Trena Analysis
+# Task 1: Call Center Trend Analysis
 🌟 Turning raw data into insights! Our Power BI dashboard for Claire is a game-changer. Dive into key metrics – from customer satisfaction to agent performance. Creativity and analytics at its best! 🚀
 
 # Task 2: Customer Retention
